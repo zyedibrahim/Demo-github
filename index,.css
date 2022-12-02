@@ -1,0 +1,11 @@
+p{
+    background-color: red;
+    
+    margin-left: 250px;
+    display: inline;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
